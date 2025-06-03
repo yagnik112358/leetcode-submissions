@@ -1,4 +1,4 @@
-# LeetCode Solutions 🧠
+# LeetCode Solutions
 
 This repo contains my solutions to LeetCode problems with explanations and notes.
 
@@ -17,6 +17,4 @@ Each solution includes:
 [Arrays](./problems/arrays) | [Graphs](./problems/graphs) | [DP](./problems/dynamic-programming)
 
 ## 🛠 Languages Used
-- Python
 - Java
-- C++
