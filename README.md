@@ -3,7 +3,7 @@
 This repo contains my solutions to LeetCode problems with explanations and notes.
 
 ## 📈 Progress
-- Easy: 0
+- Easy: 1
 - Medium: 11
 - Hard: 1
 - DP: 1
@@ -15,7 +15,7 @@ Each solution includes:
 - 💡 Approach and optimizations
 
 ## 🧾 Tags
-[Medium](./problems/medium) | [Graphs](./problems/graphs) | [DP](./problems/dynamic-programming)
+[Easy](./problems/easy) [Medium](./problems/medium) |  [Graphs](./problems/graphs) | [DP](./problems/DP)
 
 ## 🛠 Languages Used
 - Java
