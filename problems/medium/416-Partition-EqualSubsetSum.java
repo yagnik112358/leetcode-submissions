@@ -1,13 +1,9 @@
-
-public class SubsetSum{
-    public static void main(String []args) {
-        int arr[] ={1,2,7,3};
-        int target =6;
-        System.out.println("subset possible? "+ isSubsetSum(arr,target));
-    }
-}
-
 class Solution {
+    public boolean canPartition(int[] nums) {
+       int sum = Arrays.stream(nums).sum();
+       if(sum%2 == 1)return false;
+       return isSubsetSum(nums,sum/2);        
+    }
     public boolean isSubsetSum(int[] arr, int target) {
       int n = arr.length;
       int k =target;

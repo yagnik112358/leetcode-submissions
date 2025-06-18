@@ -4,8 +4,9 @@ This repo contains my solutions to LeetCode problems with explanations and notes
 
 ## 📈 Progress
 - Easy: 0
-- Medium: 10
+- Medium: 11
 - Hard: 1
+- DP: 1
 
 ## 📂 Structure
 Each solution includes:
