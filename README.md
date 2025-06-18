@@ -4,7 +4,7 @@ This repo contains my solutions to LeetCode problems with explanations and notes
 
 ## 📈 Progress
 - Easy: 0
-- Medium: 9
+- Medium: 10
 - Hard: 1
 
 ## 📂 Structure
@@ -14,7 +14,7 @@ Each solution includes:
 - 💡 Approach and optimizations
 
 ## 🧾 Tags
-[Arrays](./problems/arrays) | [Graphs](./problems/graphs) | [DP](./problems/dynamic-programming)
+[Medium](./problems/medium) | [Graphs](./problems/graphs) | [DP](./problems/dynamic-programming)
 
 ## 🛠 Languages Used
 - Java
