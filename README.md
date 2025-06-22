@@ -3,7 +3,7 @@
 This repo contains my solutions to LeetCode problems with explanations and notes.
 
 ## 📈 Progress
-- Easy: 1
+- Easy: 2
 - Medium: 13
 - Hard: 1
 - DP: 1
