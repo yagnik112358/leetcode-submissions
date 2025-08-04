@@ -4,7 +4,7 @@ This repo contains my solutions to LeetCode problems with explanations and notes
 
 ## 📈 Progress
 - Easy: 2
-- Medium: 13
+- Medium: 14
 - Hard: 1
 - DP: 1
 
